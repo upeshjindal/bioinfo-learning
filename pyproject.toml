@@ -5,7 +5,18 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "beautifulsoup4>=4.13.5",
     "biopython>=1.85",
     "chembl-webresource-client>=0.10.9",
+    "colorama>=0.4.6",
+    "matplotlib>=3.10.6",
+    "nbformat>=5.10.4",
+    "networkx>=3.5",
+    "numpy>=2.3.2",
     "pandas>=2.3.2",
+    "plotly>=6.3.0",
+    "requests>=2.32.5",
+    "scikit-learn>=1.7.2",
+    "scipy>=1.16.1",
+    "seaborn>=0.13.2",
 ]
